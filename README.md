@@ -8,7 +8,7 @@
 
 [![Years Badge](https://badges.pufler.dev/years/navidagz)]()
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=navidagz&theme=onedark&title=Stars,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=navidagz&theme=onedark&title=Stars,Followers,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -22,8 +22,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/navidagz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="navidagz" /></a></p><br><br>
 
+<br/><br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navidagz&show_icons=true&locale=en&layout=compact" alt="navidagz" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navidagz&" alt="navidagz" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navidagz)](https://github.com/anuraghazra/github-readme-stats)
