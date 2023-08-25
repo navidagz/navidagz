@@ -8,7 +8,7 @@
 
 [![Years Badge](https://badges.pufler.dev/years/navidagz)]()
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=navidagz&theme=onedark&title=Stars,Followers,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=navidagz&theme=onedark&title=Stars,Followers,Repositories,PullRequest&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h3 align="left">Connect with me:</h3>
