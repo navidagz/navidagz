@@ -33,13 +33,11 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
-          plugin_languages_indepth: no
-          plugin_languages_ignored: HTML, CSS
+          plugin_languages_indepth: yes
           
           # plugin_lines: yes
           # plugin_lines_history_limit: 1
