@@ -27,6 +27,7 @@ jobs:
           repositories_affiliations: owner, collaborator, organization_member
           
           config_display: large
+          config_padding: 0, 10 + 8%
           config_timezone: Europe/Stockholm
           
           plugin_isocalendar: yes
@@ -49,9 +50,9 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
 
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          # plugin_habits: yes
+          # plugin_habits_facts: yes
+          # plugin_habits_charts: yes
 
           plugin_notable: yes
           plugin_notable_from: all
